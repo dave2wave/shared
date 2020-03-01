@@ -1,6 +1,6 @@
 
 - printui.jar is the source code
-- printui-apps-0.9-4.zip is the apps/PrintUI plus apps/cq/.../nav overlays
+- printui-apps-0.9-5.zip is the apps/PrintUI plus apps/cq/.../nav overlays
 - printui-content-1.0-SNAPSHIOT.zip is the compiled code bundle.
 
 1. Install the two packages.
